@@ -55,6 +55,6 @@ Derived from user insights to map out the real psychological and structural barr
 ## 📄 Complete Project Deliverables
 The complete multi-page visual layout, user persona charts, and empathy map canvases compiled inside Canva are available for download and review:
 
-👉 **[Click Here to Open/View the Desk Fitness App UX Research PDF](./your_pdf_filename.pdf)**
+👉 **[Click Here to Open/View the Desk Fitness App UX Research PDF](./Empathy-Map.pdf)**
 
 *(Note: Click the link above to view the complete case study presentation directly inside your web browser.)*
